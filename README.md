@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://media.giphy.com/media/8dYmJ6Buo3lYY/giphy.gif" width="60%"/>
+<img src="https://media.giphy.com/media/SYbKUKZmir9y7l2dYX/giphy.gif" width="60%"/>
 
 # 👋 Hello, I'm Karim Ibrahim  
 ### 📊 Data Analyst | Helping Companies Grow Through Data-Driven Insights | SQL, Power BI, Python, Excel | Aspiring Data Scientist
